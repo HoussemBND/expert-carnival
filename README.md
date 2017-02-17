@@ -1,1 +1,1 @@
-# expert-carnival
+# Graphing Planar Curves
